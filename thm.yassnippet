@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: thm
+# key: thm
+# group: environments
+# --
+\begin{thm}
+  $0
+\end{thm}
